@@ -71,9 +71,9 @@
             if (/githubusercontent\.com/.test(vm.route.file)) {
               url = vm.route.file
                 .replace('raw.githubusercontent.com', 'github.com')
-                .replace(/\/master/, '/blob/master')
+                .replace(/\/master/, '/tree/master')
             } else {
-              url = 'https://github.com/scu-flying/scu-flying.github.io/blob/master/docs/' + vm.route.file
+              url = 'https://github.com/scu-flying/scu-flying.github.io/tree/master/docs/' + vm.route.file
             }
             var editHtml = '[:memo: Edit Document](' + url + ')\n';
             var year = new Date().getFullYear();
