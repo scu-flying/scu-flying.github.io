@@ -35,6 +35,26 @@
   <div id="app">Loading ...</div>
   <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script>
+    const editDocumentPlugin = function (hook, vm) {
+      hook.beforeEach(function (html) {
+        if (/githubusercontent\.com/.test(vm.route.file)) {
+          url = vm.route.file
+            .replace('raw.githubusercontent.com', 'github.com')
+            .replace(/\/main/, '/blob/main')
+        } else {
+          url = 'https://github.com/scu-flying/scu-flying.github.io/blob/main/docs/' + vm.route.file
+        }
+        var editHtml = '[:memo: Edit Document](' + url + ')\n';
+        var year = new Date().getFullYear();
+
+        return editHtml
+          + html
+          + '\n\n----\n\n'
+          + '©  2022 - '+ year + ' 四川大学飞跃手册编委会. '
+          + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>.'
+      })
+    }
+
     window.$docsify = {
       alias: {
         '.*?/awesome': 'https://raw.githubusercontent.com/docsifyjs/awesome-docsify/master/README.md',
@@ -66,25 +86,6 @@
       },
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
       plugins: [
-        function (hook, vm) {
-          hook.beforeEach(function (html) {
-            if (/githubusercontent\.com/.test(vm.route.file)) {
-              url = vm.route.file
-                .replace('raw.githubusercontent.com', 'github.com')
-                .replace(/\/main/, '/blob/main')
-            } else {
-              url = 'https://github.com/scu-flying/scu-flying.github.io/blob/main/docs/' + vm.route.file
-            }
-            var editHtml = '[:memo: Edit Document](' + url + ')\n';
-            var year = new Date().getFullYear();
-
-            return editHtml
-              + html
-              + '\n\n----\n\n'
-              + '©  2022 - '+ year + ' 四川大学飞跃手册编委会. '
-              + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>.'
-          })
-        },
       ]
     }
   </script>
