@@ -5,8 +5,8 @@
 - 支持实名/匿名投稿/修改
 - 三种投稿方式如下
 - 1. 填写[问卷](https://www.wenjuan.com/s/UZBZJv61O3B/#)后由志愿者来上传（问卷登录微信可以保存，方便后续收到offer后更改）
-  2. 按照模板联系 **scu.flying AT gmail.com**
-  3. github pull request(可以只传个人背景的markdown，sidebar由维护者修改)
+  2. 下载[模板](https://docs.qq.com/document/DR255TWJyb3BVUkJE)后离线编辑，并将邮箱标题设置为xx级-xx学院-去向(如出国/保研)-可选姓名发送给**scu.flying AT gmail.com**
+  3. github pull request，详情参见[经验分享指南](guideline.md)，可以只传个人背景的markdown，sidebar及README文件由维护者修改，
 
 ## 飞跃手册是什么？
 
