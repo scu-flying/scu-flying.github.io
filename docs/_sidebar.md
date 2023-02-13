@@ -1,8 +1,8 @@
-- 个人申请总结 (10)
+- 个人申请总结 (11)
 
   - [法学院 (1)](grad-application/law/README.md)
 
-  - [公共管理学院 (5)](grad-application/public-administration/README.md)
+  - [公共管理学院 (6)](grad-application/public-administration/README.md)
 
   - [匹兹堡学院 (1)](grad-application/pitts/README.md)
 
