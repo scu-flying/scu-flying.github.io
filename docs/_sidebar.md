@@ -1,4 +1,4 @@
-- 海外申请总结 (9)
+- 个人申请总结 (10)
 
   - [法学院 (1)](grad-application/law/README.md)
 
@@ -9,6 +9,8 @@
   - [建筑与环境学院 (1)](grad-application/architecture-environment/README.md)
   
   + [材料科学与工程学院 (1)](grad-application/material/README.md)
+
+  + [吴玉章学院 (1)](grad-application/wuyuzhang/README.md)
 
 <!-- - 海外交流 (5)
 
