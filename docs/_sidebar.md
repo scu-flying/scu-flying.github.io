@@ -1,4 +1,4 @@
-- 个人申请总结 (8)
+- 海外申请总结 (9)
 
   - [法学院 (1)](grad-application/law/README.md)
 
@@ -7,13 +7,14 @@
   - [匹兹堡学院 (1)](grad-application/pitts/README.md)
 
   - [建筑与环境学院 (1)](grad-application/architecture-environment/README.md)
+  
+  + [材料科学与工程学院 (1)](grad-application/material/README.md)
 
 <!-- - 海外交流 (5)
 
   - [学期交流 (2)](oversea-program/semester-program/README.md)
   - [暑校 ](oversea-program/summer-school/README.md)
   - [暑研 (3)](oversea-program/summer-research/README.md)
-
 - 英语学习 (3)
 
   - [GMAT ](英语学习/GMAT/README.md)
