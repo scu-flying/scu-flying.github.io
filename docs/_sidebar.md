@@ -1,4 +1,4 @@
-- 个人申请总结 (12)
+- 个人申请总结 (13)
 
   - [法学院 (1)](grad-application/law/README.md)
 
@@ -13,6 +13,8 @@
   + [吴玉章学院 (1)](grad-application/wuyuzhang/README.md)
 
   + [计算机学院 (1)](grad-application/computer-science/README.md)
+  
+  + [化学工程学院 (1)](grad-application/chemical-engineering/README.md)
 
 <!-- - 海外交流 (5)
 
