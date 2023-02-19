@@ -1,10 +1,10 @@
 # 经验分享指南
 
 1. 打开[GitHub](https://github.com/)，登入或注册`GitHub`账号
-2. 进入飞跃手册[仓库页面](https://github.com/scu-flying/scu-flying.github.io/tree/main/docs)，选择对应模块，此处以国外研究生申请为例，进入`grad-application`文件夹，点击`Add file`![image-20230212001118265](img\guideline-1.png)
+2. 进入飞跃手册[仓库页面](https://github.com/scu-flying/scu-flying.github.io/tree/main/docs)，选择对应模块，此处以国外研究生申请为例，进入`grad-application`文件夹，点击`Add file`![guideline-1](img/guideline-1.png)
 3. 检查目前是否有对应的学院
-   + 如果没有对应的学院，比如截至引导制作的时候并没有数学学院，需要先输入学院名，若已经有则跳过这一步即可![image-20230212001730227](img\guideline-2.png)
-   + 出现上图页面时再输入`/`，创建格式为`[国家]-入校年级-姓名(匿名则为anonymous，可选昵称)`的markdown文件，如[US]-19-zhangsan.md![image-20230212002716524](img\guideline-3.png)
+   + 如果没有对应的学院，比如截至引导制作的时候并没有数学学院，需要先输入学院名，若已经有则跳过这一步即可![guideline-2](img/guideline-2.png)
+   + 出现上图页面时再输入`/`，创建格式为`[国家]-入校年级-姓名(匿名则为anonymous，可选昵称)`的markdown文件，如[US]-19-zhangsan.md![guideline-3](img/guideline-3.png)
 
 4. 填写分享内容
 
