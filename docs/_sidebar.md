@@ -1,4 +1,4 @@
-- 个人申请总结 (15)
+- 个人申请总结 (16)
 
   - [法学院 (1)](grad-application/law/README.md)
 
@@ -17,6 +17,8 @@
   + [化学工程学院 (1)](grad-application/chemical-engineering/README.md)
 
   + [软件学院 (1)](grad-application/software-engineering/README.md)
+  
+  + [网络空间安全学院 (1)](grad-application/cyber-science-engineering/README.md)
 
 <!-- - 海外交流 (5)
 
