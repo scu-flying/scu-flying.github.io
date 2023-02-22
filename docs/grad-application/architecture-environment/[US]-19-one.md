@@ -33,13 +33,17 @@
 
 ## 申请结果
 
+Admission:
+
++ MS in CEE@Stanford 12.6-2.21
+
 Offer:
 
 +  PhD in CEE@NWU 12.15-1.20
 
 Reject:
 
-+ 
++ PhD in CEE@CMU 12.15-2.20（降录ms）
 
 
 
