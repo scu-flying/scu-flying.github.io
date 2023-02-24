@@ -19,7 +19,8 @@ Admission:
 Offer:
 
 + PhD@Uchicago(2023 fall)
-+ PHD@JHU(2023 fall)
++ PhD@JHU(2023 fall)
++ PhD@USC(2023 fall)
 
 Reject:
 
