@@ -1,4 +1,4 @@
-# \[US\]-19-畅想 
+# \[US\]-19-畅想 MS@UCSD
 
 ## 基本背景
 
@@ -34,6 +34,7 @@
 Admission:
 
 + MSIS@UMD
++ MSCSS@UCSD
 
 Reject:
 

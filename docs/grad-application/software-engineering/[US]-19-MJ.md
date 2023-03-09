@@ -1,4 +1,4 @@
-# \[US\]-19-MJ
+# \[US\]-19-MJ MS@Stanford
 
 ## 基本背景
 
