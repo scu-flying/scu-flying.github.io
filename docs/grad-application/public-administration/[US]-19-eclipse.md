@@ -22,13 +22,16 @@
 
 Admission:
 
-+ DS75@UCSD(12.15-3.6 UTC 21:00)
++ DS75@UCSD(12.15-3.6 UTC 22:45) 无奖
++ MSWE@UCI(12.15-3.7 UTC 18:27) 无奖
++ MSCS@UFL(1.15-3.8 UTC 14:43) 小奖
 
 
 
 Reject:
 
-+ MDS@UCI(12.15-3.6 UTC 22:45)
++ MDS@UCI(12.15-3.6 UTC 21:00)
++ MCS@Rice(1.15-3.9 UTC 23:24) 
 
 
 

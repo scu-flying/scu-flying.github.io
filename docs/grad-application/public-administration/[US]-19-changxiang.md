@@ -38,7 +38,8 @@ Admission:
 
 Reject:
 
-+ 
++ HCIM@UMD
++ MSHCI@GaTech
 
 
 
