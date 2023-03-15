@@ -1,4 +1,4 @@
-# \[US\]-19-one
+# \[US\]-19-one PhD@NWU
 
 ## 基本背景
 
@@ -35,7 +35,9 @@
 
 Admission:
 
++ MS in CEE@CMU 12.15-2.20(PhD降录)
 + MS in CEE@Stanford 12.6-2.21
++ MS in CEE@UW 12.15-3.8(Phd降录)
 
 Offer:
 
@@ -43,9 +45,8 @@ Offer:
 
 Reject:
 
-+ PhD in CEE@CMU 12.15-2.20（降录ms）
-
-
++ PhD in CEE@WUSTL 12.15-3.13
++ PhD in CEE@Brown 12.31-3.14
 
 ## 个人信息
 
