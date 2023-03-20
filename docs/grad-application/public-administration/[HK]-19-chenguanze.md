@@ -1,4 +1,4 @@
-# \[US\]-19-陈关泽 
+# \[HK\]-19-陈关泽 
 
 ## 基本背景
 
@@ -32,7 +32,7 @@
 Admission:
 
 + CUHK-Ms Computer Science-AD tl: 2022.11 submit--2023.01 提醒补交成绩单-2023.1录取 
-+ PolyU-Mpil AI-AD tl:2022.11 submit -- 2022.12 面试-- 2022.01 录取
++ PolyU-Mphil AI-AD tl:2022.11 submit -- 2022.12 面试-- 2022.01 录取
 
 Reject:
 
