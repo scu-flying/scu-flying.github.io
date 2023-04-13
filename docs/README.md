@@ -39,5 +39,4 @@
 * [一亩三分地](http://www.1point3acres.com/)
 * [The GradCafe](https://www.thegradcafe.com/)
 * [四川大学计软网学生自救手册](https://scu-cs-runner.github.io/SurviveSCUManual/)
-* [CSMSAPP](https://csmsapp.org/)
-
+* [OpenCS](https://opencs.app/)
