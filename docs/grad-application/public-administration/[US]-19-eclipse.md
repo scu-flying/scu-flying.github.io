@@ -1,4 +1,4 @@
-# \[US\]-19-Eclipse 
+# \[US\]-19-Eclipse MS@UMich
 
 ## 基本背景
 
@@ -26,14 +26,24 @@ Admission:
 + MSWE@UCI(12.15-3.7 UTC 18:27) 无奖
 + MSCS@UFL(1.15-3.8 UTC 14:43) 小奖
 
-
++ MSIM@UIUC(1.15-3.17 UTC 14:56) 无奖
++ MSDS@UMich(1.15-3.21 UTC 19:10) 无奖
++ MSCS@TAMU(1.15-3.23 UTC 20:32) 无奖
++ MSCSS@UCSD(12.15-4.12 UTC 16:57) 无奖
 
 Reject:
 
 + MDS@UCI(12.15-3.6 UTC 21:00)
-+ MCS@Rice(1.15-3.9 UTC 23:24) 
-
-
++ MCS@Rice(1.15-3.9 UTC 23:24)
++ MSIS@UT-Austin(12.15-3.17 UTC 15:45)
++ MSECE@Duke(1.15-3.20 UTC 15:48)
++ MCS@UIUC(1.15-3.21 UTC 13:45)
++ MSI@UMich(1.15-3.21 UTC 18:42)
++ MDS@Rice(1.15-3.31 UTC 17:18)
++ MSCS@UNC(12.14-4.10 UTC 18:16)
++ MSDS@Columbia(12.15-4.11 UTC 23:54)
++ MSCS@Emory(12.15-4.19 UTC 11:30)
++ MCS@UCI(12.15-4.20 UTC 18:55)
 
 ## 个人信息
 
