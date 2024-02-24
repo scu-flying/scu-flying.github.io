@@ -56,4 +56,5 @@
 +（有什么想问的都可以邮件告诉我update在这里）
 + 邮箱：xiaochen.ma.cs@gmail.com
 + Personal page: [https://me.xiaochen.world/](https://me.xiaochen.world/)
++ Github Profile: [https://github.com/SunnyHaze](https://github.com/SunnyHaze)
 + Google Scholar:[https://scholar.google.com.hk/citations?user=hGEIyCEAAAAJ](https://scholar.google.com.hk/citations?user=hGEIyCEAAAAJ)
