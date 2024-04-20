@@ -1,4 +1,4 @@
-- 个人申请总结 (20)
+- 个人申请总结 (21)
 
   - [法学院 (1)](grad-application/law/README.md)
 
@@ -23,3 +23,5 @@
   + [生命科学学院 (1)](grad-application/life-sciences/README.md)
   
   + [华西基础医学与法医学院(1)](grad-application/reclinical-medicine-forensic-medicine/README.md)
+  
+  + [化学学院(1)](grad-application/chemistry/README.md)
