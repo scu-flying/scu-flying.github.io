@@ -1,4 +1,4 @@
-- 个人申请总结 (23)
+- 个人申请总结 (24)
 
   - [法学院 (1)](grad-application/law/README.md)
 
@@ -27,3 +27,5 @@
   + [化学学院(1)](grad-application/chemistry/README.md)
   
   + [生物治疗国家重点实验室(1)](grad-application/biotherapy/README.md)
+  
+  + [外国语学院(1)](grad-application/foreign-languages/README.md)
