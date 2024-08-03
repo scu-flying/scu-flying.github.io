@@ -4,7 +4,7 @@
 
 ## MS:
 
-
++ [18级-LY ISU](grad-application/wuyuzhang/[US]-18-LY.md)
 
 ## 保研：
 
